@@ -1,1 +1,2 @@
-Git demo project
+Git demo project - version 1
+
